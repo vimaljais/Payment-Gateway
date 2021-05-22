@@ -1,0 +1,28 @@
+.credit_container {
+  display: flex;
+  padding-top: 4.8rem;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.card_expiry {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  padding-top: 20px;
+  align-items: center;
+}
+
+.month {
+}
+
+.year {
+}
+
+.cvv {
+}
+
+.expiry {
+  padding-right: 20px;
+  margin: 0;
+}

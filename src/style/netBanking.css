@@ -1,0 +1,50 @@
+.netbanking_container {
+  display: flex;
+  padding-top: 4.8rem;
+  flex-wrap: wrap;
+}
+
+.pop_bank {
+  padding: 10px 0px 0px 10px;
+  width: 100%;
+}
+
+.radio_buttons {
+  padding-left: 10px;
+}
+
+.pop_bank_radio {
+  padding: 10px 10px 2px 10px;
+}
+
+.other_bank {
+  padding: 10px 0px 10px 10px;
+  width: 100%;
+}
+
+.other_bank_dropdown_container {
+  padding: 0px 0px 10px 10px;
+  width: 100%;
+}
+
+.netbanking_submit_container {
+  justify-content: center;
+  display: flex;
+  width: 100%;
+  flex-wrap: wrap;
+}
+
+.netbanking_pay_button {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.netbanking_using_bank {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  padding-bottom: 10px;
+}
